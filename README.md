@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @Jeremy-S-Butts
-- 👀 I’m interested in ...Everything Technology from frontend development, network security administration, to cybersecurity.  I also enjoy Hapkido, hip-hop dancing, and social justice
-activism/advocacy. 
-- 🌱 I’m currently learning ...Network Security Administration from Oakton Community College.  I have a B.A. Interdisciplinarly Degree with concentrations in psychology/social work/Communications (BAIS)
-from Northeastern Illinois University.  I also have a certificate in adddiciton studies from Harold Washington College.  I to date have 207 college credit hours. 
-- 💞️ I’m looking to collaborate on ...currently showing my html and css code for my webpages which you can find at Http://www.cybergeekjsb.studio/. 
-- 📫 How to reach me ...by email primarly at jeremybutts@icloud.com or jbutts2073@oakton.edu
-<!---
-Jeremy-S-Butts/Jeremy-S-Butts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-I am a college graduate with a BAIS degree from Northeastern Illinois University concentration in Psychology/Social Work and a minor in Communications/Military Science.  I recently completed an AAS degree from Oakton College, Skokie IL in Network Security Admin. / Cybersecurity.
+- I have received certifications from CompTIA - Security + ; (ISC)2 - Cyber Security CC; and Cisco - CyberOps Associate.
+- I am definitely interested in pen testing and security research specifically around mobile applications and hardware.  I am a certified Linux Administrator and have taken several networking courses, ethical hacking, and network security, among others that have built upon my knowledge as it relates  to mobile devices and application security.
+- I am a member and player on TryHackMe.com, HackTheBox.com, DefendThis.com, among others.
+- I am also a high red belt in Hapkido and enjoy MMA and have competed in the Tournament Circuit. I also enjoy dancing in all its forms.
+- I am a part of the LGBTQ community, been an activist/advocate for a couple of decades.
